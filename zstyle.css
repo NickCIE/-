@@ -1,0 +1,37 @@
+a {
+  color:black;
+  text-decoration:none;
+}
+h1 {
+  text-align:center;
+  font-size:60px;
+  font-family:함초롬바탕;
+  border-bottom:1px solid gray;
+  padding:20px;
+  margin:0;
+}
+li {
+  list-style:none;
+  font-family:함초롬바탕;
+  padding:20px;
+  font-size:15px;
+}
+ul {
+  border-right:1px solid gray;
+  width:120px;
+  margin:0;
+  padding:10px;
+  background-color:gray;
+}
+p {
+  font-family:함초롬바탕;
+  font-size:12px;
+  padding:30px;
+}
+#grid {
+  display:grid;
+  grid-template-columns:150px 1fr;
+}
+.alpha a {
+  color:white;
+}
